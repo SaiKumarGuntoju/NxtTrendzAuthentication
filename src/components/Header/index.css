@@ -1,0 +1,36 @@
+.header-nxt-logo {
+  width: 15%;
+}
+.nav-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+}
+.nav-menu {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  width: 30%;
+  justify-content: space-between;
+}
+.logout-button {
+  background-color: #0967d2;
+  color: #ffffff;
+  padding: 5px 8px 5px 8px;
+  border: none;
+  border-radius: 5px;
+}
+.nav-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 20px;
+}
+.nav-item {
+  color: #64748b;
+  font-weight: bold;
+}
+.link-style {
+  text-decoration: none;
+}
